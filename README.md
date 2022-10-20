@@ -4,7 +4,7 @@ I'm looking for people to help me learn React.js for web app building<br>
 🌱 I'm currently learning mainly JavaScript and React. But also better practice for HTML and CSS<br>
 💬 Ask me a question. What would you like to know about me?<br>
 ⚡Fun Fact About Me:<br> 
-- I love technology, I find it amazing. But I also love nature, bushcraft, and things alike. Isn't that such a weird combo huh? 
+  - I love technology, I find it amazing. But I also love nature, bushcraft, and things alike. Isn't that such a weird combo huh? 
 
 
 ## 🌐 Socials:
