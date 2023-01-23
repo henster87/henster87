@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on getting an apprenticeship as a JavaScript React Developer <br>
+🔭 Currently working on getting an apprenticeship in the Tech / IT Industry <br>
 🤝 Looking for people to help me learn React.js for web app building<br>
 🌱 Learning mainly JavaScript and React. But also better practices for HTML and CSS<br>
 ⚡Fun Fact About Me:<br>    - I love technology, I find it amazing. But I also love nature, bushcraft, and things alike. Isn't that such a weird combo huh? 
@@ -14,8 +14,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
