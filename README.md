@@ -1,7 +1,7 @@
 # 💫 About Me:
-🔭 Currently working on getting an apprenticeship in the Tech / IT Industry <br>
-🤝 Looking for people to help me learn React.js for web app building<br>
-🌱 Learning mainly JavaScript and React. But also better practices for HTML and CSS<br>
+🔭 Currently working on getting a job or an apprenticeship in the Tech / IT Industry <br>
+🤝 Looking for people to help me learn C# for Game Development<br>
+🌱 Learning mainly JavaScript and C#. <br>
 ⚡Fun Fact About Me:<br>    - I love technology, I find it amazing. But I also love nature, bushcraft, and things alike. Isn't that such a weird combo huh? 
 
 
